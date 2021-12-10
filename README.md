@@ -6,7 +6,7 @@ The idea of this tutorial is to enable you for developing real-time chat applica
 
 #Installation Steps
 
-1.To run server, execute following commands
+1. To run server, execute following commands
 
 ```bash 
 cd ChatApp
@@ -16,14 +16,13 @@ npm start
 ```
 
 
-2.To run frontend, execute following commands
+2. To run frontend, execute following commands
 
+```bash
 cd ChatApp
-
 cd frontend
-
 npm install
-
 npm start
+```
 
 You are good to go now!
