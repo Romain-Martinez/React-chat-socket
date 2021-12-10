@@ -7,7 +7,9 @@ The idea of this tutorial is to enable you for developing real-time chat applica
 ## Demo
 
 
-https://user-images.githubusercontent.com/70898022/145619113-62a18b8f-36b9-4bdf-9066-84de43f7459e.mp4
+
+
+https://user-images.githubusercontent.com/70898022/145619345-6222f52d-8d4e-4fe0-9a65-68242012d10b.mp4
 
 
 
