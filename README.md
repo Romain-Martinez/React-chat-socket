@@ -8,7 +8,7 @@ The idea of this tutorial is to enable you for developing real-time chat applica
 
 1.To run server, execute following commands
 
-"""cd""" ChatApp
+```cd``` ChatApp
 
 cd server
 
