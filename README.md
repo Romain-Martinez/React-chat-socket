@@ -10,15 +10,11 @@ The idea of this tutorial is to enable you for developing real-time chat applica
 
 ```bash 
 cd ChatApp
-```
-
-```bash
 cd server
+npm install
+npm start
 ```
 
-npm install
-
-npm start
 
 2.To run frontend, execute following commands
 
