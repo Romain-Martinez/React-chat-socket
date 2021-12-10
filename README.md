@@ -6,6 +6,11 @@ The idea of this tutorial is to enable you for developing real-time chat applica
 
 ## Demo
 
+
+https://user-images.githubusercontent.com/70898022/145617925-c5da23f9-8b12-418f-b647-31b2c897aeac.mp4
+
+
+
 ## Installation Steps
 
 1. To run server, execute following commands
