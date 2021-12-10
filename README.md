@@ -1,4 +1,4 @@
-ReactSocketChat
+#ReactSocketChat
 
 A simple chat app developed using socket.io in React JS
 
