@@ -8,9 +8,6 @@ The idea of this tutorial is to enable you for developing real-time chat applica
 
 
 
-https://user-images.githubusercontent.com/70898022/145618177-6cfb804e-89eb-4e5f-8303-4a0038c41fc4.mp4
-
-
 
 
 
