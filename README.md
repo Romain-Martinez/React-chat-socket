@@ -12,7 +12,9 @@ The idea of this tutorial is to enable you for developing real-time chat applica
 cd ChatApp
 ```
 
+```bash
 cd server
+```
 
 npm install
 
